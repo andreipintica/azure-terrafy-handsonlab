@@ -2,7 +2,7 @@ About this lab
 ========
 This is a Hands-On-Lab for  *Azure Terrafy* guide for importing your existing Azure infrastructure under Terraform management. The installation steps in this guide focus on a Windows deployment.
 
-Attendees will learn how to use Terraform on Azure and gain essential skills on deploying and managing the Azure infrastructure.
+Attendees will learn how to export existing resource groups using Aztfy. You need to have some experience working in Azure and it would be nice to have the basic understandinf of Azure Management or past experience working with Terraform.
 
 This lab will also cover more advanced topics such as deploy Azure landing zones.
 
